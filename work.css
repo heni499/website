@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+}
+h1.me{
+    font-style: oblique;
+    font-size: large;
+    font-weight: bolder;
+    color: red;
+}
+
+h1 {
+    font-style: oblique;
+    font-size: large;
+    font-weight: bolder;
+    color: red;
+}
+
+h1.RF{
+    font-weight: bold;
+    color: grey;
+}
